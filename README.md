@@ -6,5 +6,6 @@
 # Class Diagram
 
 
-![Uploading {9D15919C-F0FA-4511-96D1-7810921D47C4}.png…]()
+![{9D15919C-F0FA-4511-96D1-7810921D47C4}](https://github.com/user-attachments/assets/6a00518f-3aa3-4454-9311-8c598e0584ce)
+
 
